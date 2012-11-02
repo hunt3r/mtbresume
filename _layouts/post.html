@@ -1,0 +1,22 @@
+
+---
+layout: default
+---
+
+<section class="post" >
+	<div class="page-header">
+		<h2>{{ page.title }}</h2>
+		<h3>{{ page.secondtitle }}</h3>
+	</div>
+	<span class="date">{{ page.date | date_to_string }}</span>
+	
+	<div class="entry">{{ content }}</div>
+
+	<span class="meta">
+    {% for tag in page.tags %}
+      <span class="label"><a href="{{site.baseurl}}/tag/{{tag}}">{{tag}}</a></span>
+    {% endfor %}
+  	</span>
+
+</section>
+

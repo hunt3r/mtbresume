@@ -1,0 +1,90 @@
+---
+layout: post
+title: Results
+tags:
+- Section
+- Promoted
+sort: 50
+---
+
+
+<table class="table">
+    <tr>
+        <th>
+            Race
+        </th>
+        <th>
+            Division
+        </th>
+        <th>
+            Finish
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Gravity East Dual Slolem, Launch Bike Park, PA
+        </td>
+        <td>
+            Cat 2, 30-39
+        </td>
+        <td>
+            1st
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gravity East Downhill, Mountain Creek Bike Park, PA
+        </td>
+        <td>
+            Cat 1, 30-39
+        </td>
+        <td>
+            2nd
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gravity East Dual Slolem, Launch Bike Park, PA
+        </td>
+        <td>
+            Cat 1, 30-39
+        </td>
+        <td>
+            2nd
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gravity East Downhill, Launch Bike Park, PA
+        </td>
+        <td>
+            Cat 1, 30-39
+        </td>
+        <td>
+            1st
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gravity East Downhill (Final Round), Seven Springs, PA
+        </td>
+        <td>
+            Cat 1, 30-39
+        </td>
+        <td>
+            1st
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gravity East Downhill, Last Call Race, Mountain Creek Bike Park, NJ
+        </td>
+        <td>
+            Cat 1, 30-39
+        </td>
+        <td>
+            2nd
+        </td>
+    </tr>
+</table>
+

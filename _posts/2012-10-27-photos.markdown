@@ -1,0 +1,20 @@
+---
+layout: post
+title: Photos
+tags:
+- Section
+- Promoted
+sort: 100
+---
+
+{% foldergallery name:static/photos/riding width:252 %}
+
+{% endfoldergallery %}
+
+<address class="alert alert-info">
+	<p>
+		Christopher D. Hunter <br />
+		C: 267.603.1505 <br />
+		<a href="#"><span class="my-email"></span></a>
+	</p>
+</address>

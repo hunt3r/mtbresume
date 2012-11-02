@@ -1,0 +1,34 @@
+---
+layout: post
+title: Resume and Introduction
+tags:
+- Section
+- Promoted
+sort: 0
+---
+
+salutation:
+
+My name is Christopher Hunter, I'm writing to yoy regarding your 2013 bicycle sponsorship program. I'd like to tell you about myself and my background in racing.  I'm a BS graduate from Drexel University, [current board member](http://www.phillymtb.org/about/current-bod) of the Philadelphia Mountain Biking Association and Director of Technology at [Empathy Lab](http://www.empathylab.com/company/news/2012/08/14/whistle-while-you-work).  I'm a cat 1 DH and [former professional motocross racer](http://vault.racerxonline.com/rider/chris-d-hunter/races) with over 15 years racing experience.  I also spent a lot of time in my teenage years racing and riding BMX up into the 15 expert class.  I have represented many well known companies in the past and would love tp have the opportunity to bring this level of professionalism to {company} in the 2013 Gravity East, Category 1 Downhill class next season.
+
+I started mountain biking about seven years ago with some friends that I had previously raced motocross with, and really fell in love with the simplicity of it.  It was a nice replacement for motocross while I got my degree, but it quickly became much more than that. Traveling on MTB trips became a big part of my life, Whistler, Moab, Highland, Lynn Woods, and many others have become seasonal destinations for myself and my friends. 
+
+This year was my first season dedicating myself to gravity racing with any regularity.  I started the year in Cat 2 racing in Dualcross just to get my feet wet. One race and a handed victory later and I requested USAC to move me up to Cat 1 immediately.  Based on a single race and my background in racing motocros and BMX, myrequest was approved.  **While racing in Cat 1 in the Gravity East championship I logged two 1st places and three 2nd places in the Mens 30-39 division. Including a win at the series championship at Seven Springs**.  It was a terrific first season, and I had a fantastic time, the racing community is so much fun to be part of again.  
+
+Next season I plan to race the entire Gravity East Downhill Series and the Golden State Series when time allows.  With the help of {company} I believe I can take home the Cat 1 30-39 title this year. It will be an exciting series, and I can hardly wait for it to start!
+
+I have also become deeply involved with the advocacy side of MTB, first by helping start IMBAs first chapter organization the [Philadelphia Mountain Biking Association](http://www.phillymtb.org/about/current-bod).  Next by helping to re-open and rebuild Spring Mountain's Launch Bike Park.  I have met and remain in contact with a dizzing amount of
+really amazing people through these endeavors. These connections will bring value to any potential engagement between myself and {company}.  
+
+Thank you for your time.
+
+Best Regards,
+
+
+<address class="alert alert-info">
+	<p>
+		Christopher D. Hunter <br />
+		C: 267.603.1505 <br />
+		<a href="#"><span class="my-email"></span></a>
+	</p>
+</address>

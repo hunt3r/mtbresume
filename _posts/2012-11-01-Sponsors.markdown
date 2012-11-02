@@ -1,0 +1,14 @@
+---
+layout: post
+title: Current Sponsors
+tags:
+- Section
+- Promoted
+sort: 200
+---
+
+<a href="http://communitybikesandboards.com"><img class="pull-right thumbnail" src="{{site.baseurl}}/static/img/logos/community.gif" width="312" height="115"/></a>
+
+I want to thank my current shop sponsor. Rob Everitt owner of Community Bikes has been an awesome supporter of mine this year.  Please check out the Community Bikes and Boards [website](http://communitybikesandboards.com/) or just stop by and say hello!
+
+
