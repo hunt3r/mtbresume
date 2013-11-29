@@ -7,9 +7,7 @@ tags:
 sort: 100
 ---
 
-{% foldergallery name:static/photos/riding width:252 %}
-
-{% endfoldergallery %}
+{% foldergallery name:static/photos/2013 width:252 %}{% endfoldergallery %}
 
 <address class="alert alert-info">
 	<p>

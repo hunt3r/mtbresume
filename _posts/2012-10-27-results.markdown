@@ -11,7 +11,7 @@ sort: 50
 <table class="table">
     <tr>
         <th>
-            Race
+            Event
         </th>
         <th>
             Division
@@ -22,40 +22,7 @@ sort: 50
     </tr>
     <tr>
         <td>
-            Gravity East Dual Slolem, Launch Bike Park, PA
-        </td>
-        <td>
-            Cat 2, 30-39
-        </td>
-        <td>
-            1st
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Gravity East Downhill, Mountain Creek Bike Park, PA
-        </td>
-        <td>
-            Cat 1, 30-39
-        </td>
-        <td>
-            2nd
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Gravity East Dual Slolem, Launch Bike Park, PA
-        </td>
-        <td>
-            Cat 1, 30-39
-        </td>
-        <td>
-            2nd
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Gravity East Downhill, Launch Bike Park, PA
+            Duryea Downhill, Reading PA
         </td>
         <td>
             Cat 1, 30-39
@@ -66,7 +33,18 @@ sort: 50
     </tr>
     <tr>
         <td>
-            Gravity East Downhill (Final Round), Seven Springs, PA
+            Gravity East Downhill, Mountain Creek Bike Park, NJ
+        </td>
+        <td>
+            Cat 1, 30-39
+        </td>
+        <td>
+            5th
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Gravity East Downhill, Blue Mountain, PA
         </td>
         <td>
             Cat 1, 30-39
@@ -77,10 +55,19 @@ sort: 50
     </tr>
     <tr>
         <td>
-            Gravity East Downhill, Last Call Race, Mountain Creek Bike Park, NJ
+            SDS Freeride Event, Launch Bike Park, PA
+        </td>
+        <td>Expert</td>
+        <td>
+            1st
+        </td>
+    </tr>
+    <tr>
+        <td>
+            SDS Freeride Event, Blue Mountain, PA
         </td>
         <td>
-            Cat 1, 30-39
+            Expert
         </td>
         <td>
             2nd

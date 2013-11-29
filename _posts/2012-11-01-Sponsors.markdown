@@ -7,8 +7,12 @@ tags:
 sort: 200
 ---
 
-<a href="http://communitybikesandboards.com"><img class="pull-right thumbnail" src="{{site.baseurl}}/static/img/logos/community.gif" width="312" height="115"/></a>
+
+<a href="http://royalracing.com"><img class="thumbnail" src="/static/img/logos/royal.jpg" width="312" /></a>
+
+Thanks to Royal Racing for their help this season.  Their gear is top notch.
+
+<a href="http://communitybikesandboards.com"><img class="thumbnail" src="/static/img/logos/community.gif" width="312" height="115"/></a>
 
 I want to thank my current shop sponsor. Rob Everitt owner of Community Bikes has been an awesome supporter of mine this year.  Please check out the Community Bikes and Boards [website](http://communitybikesandboards.com/) or just stop by and say hello!
-
 

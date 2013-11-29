@@ -1,9 +1,9 @@
 #PMBA B1tch
 
 
-deploy_to_host = "chrishunters.com"
-deploy_to_port = 22202
-deploy_to_path = "/var/www/2012mtb"
+deploy_to_host = "blog.chrishunters.com"
+deploy_to_port = 22
+deploy_to_path = "/usr/share/nginx/www/2013mtb"
 public_src = "_site" #should match destination in config
 
 desc "Generate a new public site from source."
@@ -33,9 +33,9 @@ end
 desc "Deploy this to server"
 task :deploy do
 
-  description = "SCP #{public_src} to #{deploy_to_host}:#{deploy_to_port}#{deploy_to_path}/."
+#  description = "SCP #{public_src} to #{deploy_to_host}:#{deploy_to_port}#{deploy_to_path}/."
 
-  puts description
+ # puts description
   puts "Are you sure? [y/n]"
   STDOUT.flush
   input = STDIN.gets.chomp
